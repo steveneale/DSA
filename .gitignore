@@ -1,0 +1,4 @@
+# .gitignore file for DSA++
+
+# Compiled C++ files
+*.out
