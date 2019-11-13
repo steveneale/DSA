@@ -1,7 +1,7 @@
-namespace arrays {
-
-    namespace sorting {
-
+namespace arrays 
+{
+    namespace sorting
+    {
         void insertion_sort(int array[], int array_size);
         
         void insertion_sort(int array[], int array_size) {
@@ -15,7 +15,5 @@ namespace arrays {
                 }
             }
         }        
-
     }
-
 }
