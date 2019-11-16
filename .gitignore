@@ -1,4 +1,10 @@
 # .gitignore file for DSA++
 
+# cmake files
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
 # Compiled C++ files
 *.out
