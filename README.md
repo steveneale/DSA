@@ -1,6 +1,6 @@
 # DSA++
 
-*DSA++* (a.k.a. *DSA-pp*) is a library implementing a range of data structures and algorithms in C++. The library currently contains implementations of the following algorithms:
+*DSA++* is a library implementing a range of data structures and algorithms in C++. The library currently contains implementations of the following algorithms:
 
 * Sorting
   * Insertion sort
